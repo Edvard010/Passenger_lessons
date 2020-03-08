@@ -1,0 +1,16 @@
+C:\Users\Grzegorz\source\repos\Passenger.Core\Passenger.Core\bin\Debug\netstandard2.0\Passenger.Core.deps.json
+C:\Users\Grzegorz\source\repos\Passenger.Core\Passenger.Core\bin\Debug\netstandard2.0\Passenger.Core.dll
+C:\Users\Grzegorz\source\repos\Passenger.Core\Passenger.Core\bin\Debug\netstandard2.0\Passenger.Core.pdb
+C:\Users\Grzegorz\source\repos\Passenger.Core\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.AssemblyInfoInputs.cache
+C:\Users\Grzegorz\source\repos\Passenger.Core\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.AssemblyInfo.cs
+C:\Users\Grzegorz\source\repos\Passenger.Core\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.dll
+C:\Users\Grzegorz\source\repos\Passenger.Core\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.pdb
+C:\Users\havre\Desktop\Passenger.Core\Passenger.Core\bin\Debug\netstandard2.0\Passenger.Core.deps.json
+C:\Users\havre\Desktop\Passenger.Core\Passenger.Core\bin\Debug\netstandard2.0\Passenger.Core.dll
+C:\Users\havre\Desktop\Passenger.Core\Passenger.Core\bin\Debug\netstandard2.0\Passenger.Core.pdb
+C:\Users\havre\Desktop\Passenger.Core\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.csprojAssemblyReference.cache
+C:\Users\havre\Desktop\Passenger.Core\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.AssemblyInfoInputs.cache
+C:\Users\havre\Desktop\Passenger.Core\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.AssemblyInfo.cs
+C:\Users\havre\Desktop\Passenger.Core\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.dll
+C:\Users\havre\Desktop\Passenger.Core\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.pdb
+C:\Users\Grzegorz\source\repos\Passenger.Core\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.csprojAssemblyReference.cache

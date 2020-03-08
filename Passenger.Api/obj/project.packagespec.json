@@ -1,0 +1,72 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\havre\\Desktop\\Passenger.Core\\Passenger.Api\\Passenger.Api.csproj",
+    "projectName": "Passenger.Api",
+    "projectPath": "C:\\Users\\havre\\Desktop\\Passenger.Core\\Passenger.Api\\Passenger.Api.csproj",
+    "outputPath": "C:\\Users\\havre\\Desktop\\Passenger.Core\\Passenger.Api\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "C:\\nuget\\source": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "C:\\Users\\havre\\Desktop\\Passenger.Core\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {
+            "projectPath": "C:\\Users\\havre\\Desktop\\Passenger.Core\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "AutoMapper": {
+          "target": "Package",
+          "version": "[9.0.0, )"
+        },
+        "DynamicLanguageRuntime": {
+          "target": "Package",
+          "version": "[1.2.2, )"
+        },
+        "curl": {
+          "target": "Package",
+          "version": "[7.30.0.2, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+    }
+  }
+}
